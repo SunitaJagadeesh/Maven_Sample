@@ -10,10 +10,7 @@ public class TestNG {
 	
 	
 
-		@BeforeClass ()
-		public static void  BeforeClass () {
-			System.out.println("BeforeClass method executed");
-		}
+		
 		@AfterClass ()
 		public static void  AfterClass  () {
 			System.out.println("AfterClass  method executed");
