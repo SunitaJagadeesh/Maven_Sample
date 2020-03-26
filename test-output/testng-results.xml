@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-26T13:23:42Z" name="Test Maven Suite" finished-at="2020-03-26T13:23:43Z" duration-ms="62">
+    <groups>
+    </groups>
+    <test started-at="2020-03-26T13:23:42Z" name="Test Maven Testing" finished-at="2020-03-26T13:23:43Z" duration-ms="62">
+      <class name="test.cases.TestNG">
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:test.cases.TestNG@7bc1a03d]" started-at="2020-03-26T18:53:43Z" name="BeforeClass" finished-at="2020-03-26T18:53:43Z" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:test.cases.TestNG@7bc1a03d]" started-at="2020-03-26T18:53:43Z" name="BeforeMethod" finished-at="2020-03-26T18:53:43Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="TC01()[pri:0, instance:test.cases.TestNG@7bc1a03d]" started-at="2020-03-26T18:53:43Z" name="TC01" finished-at="2020-03-26T18:53:43Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:test.cases.TestNG@7bc1a03d]" started-at="2020-03-26T18:53:43Z" name="AfterMethod" finished-at="2020-03-26T18:53:43Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method signature="TC02()[pri:0, instance:test.cases.TestNG@7bc1a03d]" started-at="2020-03-26T18:53:43Z" name="TC02" finished-at="2020-03-26T18:53:43Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02 -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:test.cases.TestNG@7bc1a03d]" started-at="2020-03-26T18:53:43Z" name="BeforeMethod" finished-at="2020-03-26T18:53:43Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:test.cases.TestNG@7bc1a03d]" started-at="2020-03-26T18:53:43Z" name="AfterMethod" finished-at="2020-03-26T18:53:43Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:test.cases.TestNG@7bc1a03d]" started-at="2020-03-26T18:53:43Z" name="BeforeMethod" finished-at="2020-03-26T18:53:43Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="TC03()[pri:0, instance:test.cases.TestNG@7bc1a03d]" started-at="2020-03-26T18:53:43Z" name="TC03" finished-at="2020-03-26T18:53:43Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03 -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:test.cases.TestNG@7bc1a03d]" started-at="2020-03-26T18:53:43Z" name="AfterMethod" finished-at="2020-03-26T18:53:43Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:test.cases.TestNG@7bc1a03d]" started-at="2020-03-26T18:53:43Z" name="AfterClass" finished-at="2020-03-26T18:53:43Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+      </class> <!-- test.cases.TestNG -->
+    </test> <!-- Test Maven Testing -->
+  </suite> <!-- Test Maven Suite -->
+</testng-results>
