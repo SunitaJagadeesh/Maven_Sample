@@ -3,7 +3,7 @@
 <suite name="Test Maven Suite">
 
 
-  <test name="Test Maven Testing">
+ <test name="Test Maven Testing">
     <packages>
       <package name="test.cases.*"/>
     </packages>
