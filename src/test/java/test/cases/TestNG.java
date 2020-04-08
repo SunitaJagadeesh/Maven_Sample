@@ -35,6 +35,11 @@ public class TestNG {
 		public static void  TC03 () {
 			System.out.println("TC03 method executed");
 		}
+		@Test ()
+		public static void  TC04 () {
+			System.out.println("TC04 method executed");
+		}
+		
 	}
 
 
